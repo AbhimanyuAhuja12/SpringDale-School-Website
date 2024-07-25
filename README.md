@@ -1,4 +1,4 @@
-Live Link: [spring-dale-school-website.vercel.app](url)
+Live Link: [spring-dale-school-website.vercel.app](https://spring-dale-school-website.vercel.app/)
 
 **Prerequisites:-**
 
